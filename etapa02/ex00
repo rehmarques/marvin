@@ -1,0 +1,4 @@
+function iniciais (felicidade) {
+    return "fel";
+}
+

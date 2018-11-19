@@ -1,6 +1,5 @@
 function nomes( renata, marcela) {
-    return "renata, marcela"
+    return "renata e marcela"
 }
-    console.log (nomes ("renata, marcela"))
 
 

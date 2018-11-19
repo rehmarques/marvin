@@ -1,5 +1,5 @@
 function nomeDeVolta() {
-    console.log ("Marvin")
-    return "Marvin"
+    console.log ("Marvin");
+    return "Marvin";
 }
-nomeDeVolta()
+

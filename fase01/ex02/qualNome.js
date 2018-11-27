@@ -1,5 +1,5 @@
-function qualNome(Renata) {
-return  "meu nome é Renata";
+function qualNome(nome) {
+return  "meu nome é Arthur";
 }
 
 

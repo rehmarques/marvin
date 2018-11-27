@@ -1,5 +1,5 @@
-function nomes( renata, marcela) {
-    return "renata e marcela"
+function nomes( nome1, nome2) {
+    return "Arthur e Zaphod"
 }
 
 

@@ -1,6 +1,6 @@
 
 function penultimo(palavra) {
-    return palavra.substr(7,1)
+    return palavra.substr(-2,1)
 }
     
     

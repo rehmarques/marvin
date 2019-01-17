@@ -1,5 +1,8 @@
 function inteiro(num) {
-    return Math.round(num)==num
+ if (num==Math.floor(num))
+     return true;
+    else
+        return false;
 }
 
 
